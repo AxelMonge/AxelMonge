@@ -1,10 +1,10 @@
-# Hi, I'm [Your Name]!
+# Hi, I'm Axel!
 
 Welcome to my GitHub profile. I'm a passionate developer with a love for continuous learning and technology.
 
 ## About Me
 
-I am a Systems Engineering student at the National University of Costa Rica. I love solving problems and creating innovative solutions through programming. My main interests include web development, artificial intelligence, and process automation.
+I am a Systems Engineering student at the National University of Costa Rica. I love solving problems and creating innovative solutions through programming. My main interests include web development and artificial intelligence.
 
 ## Technical Skills
 
@@ -24,5 +24,5 @@ I am open to collaborating on interesting projects and welcome contributions to 
 
 ## Contact
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: [axel.monge.jobs@gmail.com](mailto:axel.monge.jobs@gmail.com)
+- **LinkedIn**: [Axel Monge Ramírez](https://www.linkedin.com/in/axel-monge-ramirez/)
