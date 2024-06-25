@@ -46,7 +46,7 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
   <tr>
     <th>🛠 Web Services</th>
     <th>🗄 Databases</th>
-    <th>🚀 DevOps and Tools</th>
+    <th>🚀Basic DevOps and CI/CD</th>
   </tr>
   <tr>
     <td>
