@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a love for continu
 
 I am a Systems Engineering student at the National University of Costa Rica. I love solving problems and creating innovative solutions through programming. My main interests include web development and artificial intelligence.
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized-small.gif)
+![Coding GIF](<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>)
 
 ## Technical Skills ![Laptop GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized-small.gif)
 
