@@ -12,32 +12,32 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 
 ## Technical Skills 💻
 
-### Programming Languages
-- Python, JavaScript, C#, Java, C, C++, Prolog
+### Programming Languages 🖥️
+- Python 🐍, JavaScript 💻, C# #️⃣, Java ☕, C, C++, Prolog 🔍
 
-### Frontend Development
-- HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React, Angular
+### Frontend Development 🌐
+- HTML 📝, CSS 🎨, JavaScript 💻, TypeScript 🟦, JQuery, Bootstrap 👢, React ⚛️, Angular 📐
 
-### Backend Development
-- Node.js, .NET Core, ASP MVC, Razor
+### Backend Development 🔙
+- Node.js 🟩, .NET Core, ASP MVC, Razor
 
-### Web Services
+### Web Services 🌐
 - Ajax, RESTful Web Services, Web APIs
 
-### Databases
-- SQL (PostgreSQL, SQL Server, MySQL, Oracle PL/SQL), MongoDB
+### Databases 🗄️
+- SQL (PostgreSQL 🐘, SQL Server, MySQL 🐬, Oracle PL/SQL), MongoDB 🍃
 
-### DevOps and Tools
-- Azure DevOps, Git-Github, Docker, Docker Swarm, Docker Compose, Jenkins, CICD Pipelines, JetBrains TeamCity
+### DevOps and Tools 🛠️
+- Azure DevOps, Git-Github, Docker 🐳, Docker Swarm, Docker Compose, Jenkins, CICD Pipelines, JetBrains TeamCity
 
-### Testing
+### Testing 🧪
 - JUnit, Mockito, Jest, Selenium, Postman
 
-### Machine Learning
-- Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib
+### Machine Learning 🤖
+- Scikit-learn, TensorFlow, Keras, PyTorch, Pandas 🐼, NumPy, Matplotlib 📊
 
-### Soft Skills
-- Problem Solving, Critical Thinking, Teamwork, Adaptability, Time Management
+### Soft Skills 💡
+- Problem Solving 🧩, Critical Thinking 🧠, Teamwork 🤝, Adaptability 🔄, Time Management ⏰
 
 ![Skills GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
