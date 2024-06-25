@@ -9,6 +9,7 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 ## Technical Skills 💻
 
 ### Programming Languages
+<div style="column-count: 3; column-gap: 10px;">
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python 🐍
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript 💻
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) C# #️⃣
@@ -16,8 +17,10 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 - C
 - C++
 - Prolog 🔍
+</div>
 
 ### Frontend Development
+<div style="column-count: 3; column-gap: 10px;">
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML 📝
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS 🎨
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript 💻
@@ -26,26 +29,34 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap 👢
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React ⚛️
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) Angular 📐
+</div>
 
 ### Backend Development
+<div style="column-count: 3; column-gap: 10px;">
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) Node.js 🟩
 - .NET Core
 - ASP MVC
 - Razor
+</div>
 
 ### Web Services
+<div style="column-count: 3; column-gap: 10px;">
 - Ajax
 - RESTful Web Services
 - Web APIs
+</div>
 
 ### Databases
+<div style="column-count: 3; column-gap: 10px;">
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) PostgreSQL 🐘
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) SQL Server
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL 🐬
 - Oracle PL/SQL
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB 🍃
+</div>
 
 ### DevOps and Tools
+<div style="column-count: 3; column-gap: 10px;">
 - ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) Azure DevOps
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker 🐳
@@ -54,15 +65,19 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 - Jenkins
 - CICD Pipelines
 - JetBrains TeamCity
+</div>
 
 ### Testing
+<div style="column-count: 3; column-gap: 10px;">
 - JUnit
 - Mockito
 - Jest
 - Selenium
 - Postman
+</div>
 
 ### Machine Learning
+<div style="column-count: 3; column-gap: 10px;">
 - ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-learn
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow
 - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) Keras
@@ -70,13 +85,16 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) Pandas 🐼
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) NumPy
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) Matplotlib 📊
+</div>
 
 ### Soft Skills
+<div style="column-count: 3; column-gap: 10px;">
 - Problem Solving 🧩
 - Critical Thinking 🧠
 - Teamwork 🤝
 - Adaptability 🔄
 - Time Management ⏰
+</div>
 
 ## Featured Projects 🌟
 
