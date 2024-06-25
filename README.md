@@ -1,10 +1,14 @@
 # Hi, I'm Axel! 👋
 
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 Welcome to my GitHub profile. I'm a passionate developer with a love for continuous learning and technology.
 
 ## About Me 📚
 
 I am a Systems Engineering student at the National University of Costa Rica. I love solving problems and creating innovative solutions through programming. My main interests include web development and artificial intelligence.
+
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## Technical Skills 💻
 
@@ -35,6 +39,8 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 ### Soft Skills
 - Problem Solving, Critical Thinking, Teamwork, Adaptability, Time Management
 
+![Skills GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ## Featured Projects 🌟
 
 - [**Scikitty**](https://github.com/yourusername/scikitty): Lead and key developer of Scikitty, a Python package inspired by Scikit-learn, featuring custom-built models from scratch.
@@ -44,6 +50,8 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
   - Demonstrated excellent knowledge of computer science and artificial intelligence, particularly in machine learning and rule-based systems.
   - Showcased outstanding programming and problem-solving abilities to achieve functionality comparable to industry standards.
 
+![Projects GIF](https://media.giphy.com/media/l0HlIj0F4SzSxg4as/giphy.gif)
+
 ## Contributions and Collaborations 🤝
 
 I am open to collaborating on interesting projects and welcome contributions to my repositories. If you have an idea or want to work together, feel free to contact me.
@@ -52,3 +60,5 @@ I am open to collaborating on interesting projects and welcome contributions to 
 
 - **Email**: [axel.monge.jobs@gmail.com](mailto:axel.monge.jobs@gmail.com)
 - **LinkedIn**: [Axel Monge Ramírez](https://www.linkedin.com/in/axel-monge-ramirez/)
+
+![Contact GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
