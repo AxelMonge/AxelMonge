@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm a passionate developer with a love for continuous learning and technology.
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy-downsized-small.gif)
+![Welcome GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Developer.gif?raw=true)
 
 ## About Me 📚
 
