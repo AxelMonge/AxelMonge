@@ -37,7 +37,7 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
 
 ## Featured Projects 🌟
 
-- [**Scikitty**](https://github.com/yourusername/scikitty): Lead and key developer of Scikitty, a Python package inspired by Scikit-learn, featuring custom-built models from scratch.
+- [**Scikitty**](https://github.com/AxelMonge/Public-Scikitty): Lead and key developer of Scikitty, a Python package inspired by Scikit-learn, featuring custom-built models from scratch.
   - Included an advanced Decision Tree class with features such as direct handling of categorical features (no need for numerization or binarization), visual tree representation, and the ability to save/load tree structures in JSON.
   - Seamless integration with Prolog for transforming ML models into Rule-Based systems.
   - Surpassed Scikit-learn by eliminating the need for numerization, saving preprocessing steps, and providing superior explainability through graphical visualization included in the package and parameterized impurity criteria.
