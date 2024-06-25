@@ -29,9 +29,9 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br>
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/><br>
-      C<br>
-      C++<br>
-      Prolog
+      💻 C<br>
+      💻 C++<br>
+      💻 Prolog
     </td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/><br>
@@ -45,9 +45,9 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/><br>
-      .NET Core<br>
-      ASP MVC<br>
-      Razor
+      💻 .NET Core<br>
+      💻 ASP MVC<br>
+      💻 Razor
     </td>
   </tr>
   <tr>
@@ -57,26 +57,26 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
   </tr>
   <tr>
     <td>
-      Ajax<br>
-      RESTful Web Services<br>
-      Web APIs
+      🛠 Ajax<br>
+      🛠 RESTful Web Services<br>
+      🛠 Web APIs
     </td>
     <td>
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
-      Oracle PL/SQL<br>
+      🗄 Oracle PL/SQL<br>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br>
-      Docker Swarm<br>
-      Docker Compose<br>
-      Jenkins<br>
-      CICD Pipelines<br>
-      JetBrains TeamCity
+      🚀 Docker Swarm<br>
+      🚀 Docker Compose<br>
+      🚀 Jenkins<br>
+      🚀 CICD Pipelines<br>
+      🚀 JetBrains TeamCity
     </td>
   </tr>
   <tr>
@@ -86,11 +86,11 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
   </tr>
   <tr>
     <td>
-      JUnit<br>
-      Mockito<br>
-      Jest<br>
-      Selenium<br>
-      Postman
+      🔍 JUnit<br>
+      🔍 Mockito<br>
+      🔍 Jest<br>
+      🔍 Selenium<br>
+      🔍 Postman
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/><br>
@@ -102,11 +102,11 @@ I am a Systems Engineering student at the National University of Costa Rica. I l
       <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
     </td>
     <td>
-      Problem Solving<br>
-      Critical Thinking<br>
-      Teamwork<br>
-      Adaptability<br>
-      Time Management
+      🧠 Problem Solving<br>
+      🧠 Critical Thinking<br>
+      🧠 Teamwork<br>
+      🧠 Adaptability<br>
+      🧠 Time Management
     </td>
   </tr>
 </table>
