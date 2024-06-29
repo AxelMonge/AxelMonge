@@ -1,6 +1,6 @@
 # Hi, I'm Axel! 👋
 
-Welcome to my GitHub profile. I'm a passionate developer with a love for continuous learning and technology.
+Welcome to my GitHub profile. I'm a passionate software developer with a love for continuous learning and technology.
 
 ## My Stats 📊
 
